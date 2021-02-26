@@ -1,0 +1,128 @@
+.top-container {
+  background-color: #fcb040;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 560%;
+  top: 100px;
+  font-family: 'Patrick Hand SC', cursive;
+  font-family: 'Scope One', serif;
+  font-family: 'Montserrat', sans-serif;
+  margin: 50 auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  color: #f5d184;
+  border-style: dotted;
+  border-width: 7px;
+  border-bottom-style: none;
+  width: 5%;
+}
+
+.subtitle {
+  font-family: 'Patrick Hand SC', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+}
+
+p {
+  font-family: 'Playfair Display', serif;
+}
+
+.gis {
+  float: left;
+  width: 25%;
+  position: relative;
+  margin-right: 30px;
+}
+
+.webd {
+  float: right;
+  width: 25%;
+  position: relative;
+  margin-left: 30px;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+
+.bword {
+  font-weight: bold;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 75px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.BUTTON_WPD {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 21px;
+  border-color-hover: ;
+  border-style-hover: solid;
+  border-width-hover: 1;
+  background-color: #506E86;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px;
+}
+
+.BUTTON_WPD:hover {
+  background: #597F9D;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.footer-link{
+  color: #11999E;
+  line-height: 3;
+  text-decoration: none;
+}
